@@ -1,4 +1,11 @@
-### Hi there 👋
+### Contribution Statics 🪪
+
+<p align="center">
+<a align="center"><img width="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majdlatah&theme=default" /></a>
+<br>
+<a align="center"><img width="auto" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majdlatah&text_color=000000&bg_color=FFFFFF&title_color=94b4a4&langs_count=10&layout=compact&hide_border=false" /></a>
+<a align="center"><img width="auto" height="225" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=majdlatah&theme=default" /></a>
+</p>
 
 <!--
 **majdlatah/majdlatah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
