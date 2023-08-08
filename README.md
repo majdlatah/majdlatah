@@ -1,5 +1,3 @@
-### Contribution Statics 🪪
-
 <p align="center">
 <a align="center"><img width="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majdlatah&theme=default" /></a>
 <br>
