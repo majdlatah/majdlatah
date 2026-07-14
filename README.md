@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Majd Latah
-- 🔬 Research interests: [Network Security, Software-Defined Networking, Blockchain, Applied Cryptography, Agentic AI]
+- 🔬 Research interests: [Network Security, SDN, Blockchain, Applied Cryptography, Agentic AI]
 - 📫 Reach me at: [latahmajd@gmail.com]
 - 🌐 Google Scholar: [https://scholar.google.com/citations?user=jy6n5E8AAAAJ&hl=tr&oi=ao]
   
