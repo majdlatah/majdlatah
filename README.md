@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Majd Latah
 - 🔬 Research interests: Network Security, SDN, Blockchain, Applied Cryptography, Agentic AI
 - 📫 Reach me at: latahmajd@gmail.com
-- 🌐 Google Scholar: https://scholar.google.com/citations?user=jy6n5E8AAAAJ&hl=tr&oi=ao
+- 🌐 Web page: https://majdlatah.github.io/
   
 <p align="center">
 <a align="center"><img width="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majdlatah&theme=default" /></a>
